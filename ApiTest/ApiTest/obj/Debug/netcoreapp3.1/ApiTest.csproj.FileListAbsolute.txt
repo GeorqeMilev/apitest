@@ -18,3 +18,4 @@ C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\A
 C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.dll
 C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.pdb
 C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.genruntimeconfig.cache
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.csprojAssemblyReference.cache

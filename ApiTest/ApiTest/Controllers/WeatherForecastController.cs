@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 namespace ApiTest.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("")]
     public class WeatherForecastController : ControllerBase
     {
         private readonly ILogger<WeatherForecastController> _logger;
@@ -16,7 +16,7 @@ namespace ApiTest.Controllers
             _logger = logger;
         }
 
-        [HttpGet]
+        [HttpGet("")]
         public IActionResult Get()
         {
             //Ocp-Apim-Subscription-Key
