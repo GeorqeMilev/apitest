@@ -1,0 +1,10 @@
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.exe
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.csprojAssemblyReference.cache
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.AssemblyInfoInputs.cache
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.AssemblyInfo.cs
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\staticwebassets\ApiTest.StaticWebAssets.Manifest.cache
+C:\Users\gmilev\Desktop\api-management\ApiTest\ApiTest\obj\Debug\netcoreapp3.1\staticwebassets\ApiTest.StaticWebAssets.xml
